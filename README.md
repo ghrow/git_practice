@@ -1,1 +1,1 @@
-프로젝트 몰입과제 (JungCar) 이미지 분류 모델
+git practice
